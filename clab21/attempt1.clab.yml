@@ -12,4 +12,4 @@ topology:
       image: ceos:4.34.1F
   
   links: 
-    - endpoints:["srl:ethernet-1/1", "ceos:eth1"]
+    - endpoints: ["srl:ethernet-1/1", "ceos:eth1"]
